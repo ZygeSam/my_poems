@@ -1,0 +1,23 @@
+Email newsletter
+
+User
+
+Id
+First Name
+Last Name
+Official name
+Email
+Password
+
+Group
+
+Id
+User Id
+Name
+
+Mailing list
+
+Id
+Group Id
+Email
+
